@@ -33,12 +33,15 @@ Instructions on how to install and configure the necessary environment or depend
 ```bash
 # Example installation code
 pip install -r requirements.txt
+```
 
 ## Usage
 Examples of how to use the projects or tools within this repository.
 
+```bash
 # Example usage code
 python project_1/main.py
+```
 
 ## Contributing
 We welcome contributions from the data engineering community. Please read our CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests.
