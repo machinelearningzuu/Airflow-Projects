@@ -10,8 +10,8 @@ This repository is a curated collection of projects and tools that exemplify bes
 
 Each project within this repository is self-contained with its own set of instructions, documentation, and necessary scripts or code.
 
-- **Project 1**: Retail Data Pipeline with AirFlow
-- **Project 2**: Uber Data Analytics Pipeline
+- **Project 1**: Retail Data Pipeline - AirFlow
+- **Project 2**: Uber Data Pipeline - Mage
 
 ## Technologies
 
@@ -21,8 +21,9 @@ The projects in this repository leverage a variety of technologies, including:
 - Apache Airflow
 - Amazon Redshift
 - Google BigQuery
+- SnowFlake
 - Docker
-- ...and others.
+- Mage
 
 ## Installation
 
