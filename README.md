@@ -10,10 +10,8 @@ This repository is a curated collection of projects and tools that exemplify bes
 
 Each project within this repository is self-contained with its own set of instructions, documentation, and necessary scripts or code.
 
-- **Project 1**: Description of Project 1
-- **Project 2**: Description of Project 2
-- **Project 3**: Description of Project 3
-- ...and more.
+- **Project 1**: Retail Data Pipeline - AirFlow
+- **Project 2**: Uber Data Analytics Pipeline
 
 ## Technologies
 
