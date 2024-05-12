@@ -30,6 +30,8 @@ The projects in this repository leverage a variety of technologies, including:
 ### Fact Table vs Dimension Table
    ![image](https://github.com/machinelearningzuu/Data-Engineering-Projects/assets/41842488/1d36b206-8edf-4144-b2b1-80af3ede7343)
 
+### Data Pipeline Tree
+   ![image](https://github.com/machinelearningzuu/Data-Engineering-Projects/blob/main/02-uber-data-pipeline/docs/pipeline-tree.png)
 ## Installation
 
 Instructions on how to install and configure the necessary environment or dependencies for the projects.
