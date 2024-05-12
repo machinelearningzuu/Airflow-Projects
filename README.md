@@ -11,7 +11,7 @@ This repository is a curated collection of projects and tools that exemplify bes
 Each project within this repository is self-contained with its own set of instructions, documentation, and necessary scripts or code.
 
 - **Project 1**: Retail Data Pipeline - AirFlow
-- **Project 2**: Uber Data Pipeline - Mage
+- **Project 2**: [Uber Data Pipeline - Mage](https://github.com/machinelearningzuu/Data-Engineering-Projects/tree/main/02-uber-data-pipeline)
 
 ## Technologies
 
